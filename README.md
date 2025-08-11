@@ -17,7 +17,7 @@ Built with **SwiftUI** and designed for simplicity and productivity.
 
 ## 📦 Installation
 
-1. [Download the `.dmg` file](#) from the **Releases** section  
+1. [Download the `.dmg` file](#https://github.com/khotcholava/focus-vibe-releases/releases/tag/v1.0.0) from the **Releases** section  
 2. Drag the app into your **Applications** folder  
 3. Launch FocusVibe and enter your personal focus zone  
 
